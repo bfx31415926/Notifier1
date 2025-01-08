@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notifier</string>
+    <string name="start">СТАРТ!</string>
+    <string name="stop">СТОП!</string>
+    <string name="selectMinutes">Выберите число минут</string>
+    <string name="exitMainActivity">Выйти из программы?</string>
+    <string name="yes_option">Да</string>
+    <string name="no_option">Нет</string>
+</resources>
